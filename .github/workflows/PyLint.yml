@@ -30,6 +30,6 @@ jobs:
           commit_message: 'Auto Fixes' 
           commit_options: '--no-verify'
           repository: .
-          commit_user_name: NILLCODERBOT 
-          commit_user_email: NILLCODERBOT@gmail.com
-          commit_author: Nillcoderbot <NILLCODERBOT@gmail.com>
+          commit_user_name: SHIVU
+          commit_user_email: 
+          commit_author: Shivu_143m <SHIVU_O>
