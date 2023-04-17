@@ -412,7 +412,7 @@ def Fallen_about_callback(update: Update, context: CallbackContext):
                         ),
                         InlineKeyboardButton(
                             text="ɢɪᴛʜᴜʙ",
-                            url="http://telegram.me/nillcoderbot",
+                            url="http://telegram.me/shivu_o",
                         ),
                     ],
                     [
@@ -442,16 +442,16 @@ def Source_about_callback(update: Update, context: CallbackContext):
  ᴛʜɪs ɪs {BOT_NAME},
 ᴀɴ ᴏᴩᴇɴ sᴏᴜʀᴄᴇ ᴛᴇʟᴇɢʀᴀᴍ ɢʀᴏᴜᴩ ᴍᴀɴᴀɢᴇᴍᴇɴᴛ ʙᴏᴛ.*
 
-ᴡʀɪᴛᴛᴇɴ ɪɴ ᴩʏᴛʜᴏɴ ᴡɪᴛʜ ᴛʜᴇ ʜᴇʟᴩ ᴏғ : [TELETHON](https://telegram.me/nillcoderbot)
+ᴡʀɪᴛᴛᴇɴ ɪɴ ᴩʏᴛʜᴏɴ ᴡɪᴛʜ ᴛʜᴇ ʜᴇʟᴩ ᴏғ : [TELETHON](https://telegram.me/shivu)
 [PYROGRAM](https://instagram.com/nillcoderbot)
 [DEVELOPER](https://telegram.me/nillcoder)
-ᴀɴᴅ ᴜsɪɴɢ [GROUP](https://telegram.me/night_talks_m) ᴀɴᴅ [INSTAGRAM](https://instagram.com/nillcoderbot) ᴀs ᴅᴀᴛᴀʙᴀsᴇ.
+ᴀɴᴅ ᴜsɪɴɢ [GROUP](https://telegram.me/night_talks_m) ᴀɴᴅ [INSTAGRAM](https://instagram.com/shivu_143m) ᴀs ᴅᴀᴛᴀʙᴀsᴇ.
 
 
-*ʜᴇʀᴇ ɪs ᴍʏ sᴏᴜʀᴄᴇ ᴄᴏᴅᴇ :*ᴛʜ [OWNER](https://telegram.me/nillcoderbot)
+*ʜᴇʀᴇ ɪs ᴍʏ sᴏᴜʀᴄᴇ ᴄᴏᴅᴇ :*ᴛʜ [OWNER](https://telegram.me/shivu_143m)
 
 
-{BOT_NAME} ɪs ʟɪᴄᴇɴsᴇᴅ ᴜɴᴅᴇʀ ᴛʜᴇ [SUPPORT](https://telegram.me/nillcoderbot).
+{BOT_NAME} ɪs ʟɪᴄᴇɴsᴇᴅ ᴜɴᴅᴇʀ ᴛʜᴇ [SUPPORT](https://telegram.me/shivu_o).
 © 2022 - 2023 | [GIFT FOR YOU](https://t.me/{SUPPORT_CHAT}), ᴀʟʟ ʀɪɢʜᴛs ʀᴇsᴇʀᴠᴇᴅ.
 """,
             parse_mode=ParseMode.MARKDOWN,
