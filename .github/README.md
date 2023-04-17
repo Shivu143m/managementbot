@@ -1,14 +1,14 @@
 ━━━━━━━━━━━━━━━━━━━━
 
 <h2 align="center">
-    ──「 𝙽𝙸𝙻𝙻𝙲𝙾𝙳𝙴𝚁 ✘ ʀᴏʙᴏᴛ 」──
+    ──「 SHIVU ✘ ʀᴏʙᴏᴛ 」──
 </h2>
 
 <p align="center">
-  <img src="https://te.legra.ph/file/a058e18153b55d10c03f5.jpg">
+  <img src="https://te.legra.ph/file/fe149e956df10e42d1da5.jpg">
 </p>
 
-_**ᴀᴠᴀɪʟᴀʙʟᴇ ᴏɴ ᴛᴇʟᴇɢʀᴀᴍ ᴀs [𝙽𝙸𝙻𝙻𝙲𝙾𝙳𝙴𝚁 ✘ ʀᴏʙᴏᴛ](https://telegram.me/nillcoderbot)**_
+_**ᴀᴠᴀɪʟᴀʙʟᴇ ᴏɴ ᴛᴇʟᴇɢʀᴀᴍ ᴀs [𝙽𝙸𝙻𝙻𝙲𝙾𝙳𝙴𝚁 ✘ ʀᴏʙᴏᴛ](https://telegram.me/shivu_o)**_
 ━━━━━━━━━━━━━━━━━━━━
 
 <p align="center">
@@ -25,7 +25,7 @@ _**ᴀᴠᴀɪʟᴀʙʟᴇ ᴏɴ ᴛᴇʟᴇɢʀᴀᴍ ᴀs [𝙽𝙸𝙻𝙻�
 ━━━━━━━━━━━━━━━━━━━━
 
 <p align="center">
-  <img src="https://telegra.ph/file/7bd111132fce009e4605e.jpg">
+  <img src="https://te.legra.ph/file/fe149e956df10e42d1da5.jpg">
 </p>
 
 <p align="center">
@@ -76,7 +76,7 @@ Press `Ctrl+C` when you're done with editing config and `:wq` to save the config
 Press `Ctrl+b` and then `d`
 
 <p align="center">
-  <img src="https://te.legra.ph/file/4e2bc734e411e2060cb12.png">
+  <img src="https://te.legra.ph/file/fe149e956df10e42d1da5.jpg">
 </p>
 
 </details>
