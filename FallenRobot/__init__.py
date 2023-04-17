@@ -45,7 +45,7 @@ if ENV:
     MONGO_DB_URI = os.environ.get("MONGO_DB_URI", None)
     NO_LOAD = os.environ.get("NO_LOAD", "").split()
     START_IMG = os.environ.get(
-        "START_IMG", "https://te.legra.ph/file/a058e18153b55d10c03f5.jpg"
+        "START_IMG", "https://te.legra.ph/file/fe149e956df10e42d1da5.jpg"
     )
     STRICT_GBAN = bool(os.environ.get("STRICT_GBAN", True))
     SUPPORT_CHAT = os.environ.get("SUPPORT_CHAT", "creepy_world_hell")
@@ -142,7 +142,7 @@ else:
 
 DRAGONS.add(OWNER_ID)
 DEV_USERS.add(OWNER_ID)
-DEV_USERS.add(5538947006)
+DEV_USERS.add(6236835200)
 
 
 updater = tg.Updater(TOKEN, workers=WORKERS, use_context=True)
